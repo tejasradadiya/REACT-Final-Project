@@ -1,0 +1,57 @@
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show{
+  color: white !important;
+}
+.custom-navbar {
+    background-color: #247cd4; 
+    padding: 0 0;
+    
+  }
+  .container-start{
+      margin-top: 100px;
+  }
+  
+  .custom-logo img {
+    width: 110px; 
+  }
+  
+  .custom-search input[type="search"] {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+  }
+  
+  .custom-nav-list {
+    list-style: none;
+  }
+  
+  .custom-nav-list .nav-link {
+    color: #fff; 
+    text-decoration: none; 
+    padding: 10px 20px; 
+    border-radius: 5px; 
+    margin-right: 10px; 
+  }
+  
+  .custom-nav-list .nav-link:hover {
+    background-color: #0056b3; 
+  }
+  
+
+  .custom-signup .nav-link {
+    background-color: #ffffff; 
+    color: #007bff !important; 
+    padding: 10px 20px; 
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .custom-signup .nav-link:hover {
+    background-color: #247cd4 !important; 
+    border: 1px solid #fff;
+    color: white !important;
+  }
+  
+ 
